@@ -13,13 +13,6 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
 
-<!--<a href="https://twitter.com/jorgardev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jorgargom" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jorge-garcia-gomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jorgargom" height="30" width="40" /></a> -->
-
-    
-    
-    
-    
     
   </div>
 
